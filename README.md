@@ -23,7 +23,7 @@ imgsearch/
 ## Setup
 
 ```bash
-git clone https://github.com/ramimK0bir/image_based_product_search.git
+git clone https://github.com/ramim-kobir/image_based_product_search.git
 cd image_based_product_search
 pip install -r imgsearch/requirements.txt
 python imgsearch/manage.py migrate

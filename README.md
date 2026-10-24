@@ -32,6 +32,9 @@ python manage.py runserver
 
 The model will be downloaded automatically on first run into `utlities/models/`.
 
+## [Live Demo](https://imgsearch-wine.vercel.app/)
+
+
 ## Usage
 
 - Visit `http://127.0.0.1:8000/`

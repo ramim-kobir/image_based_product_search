@@ -25,9 +25,9 @@ imgsearch/
 ```bash
 git clone https://github.com/ramim-kobir/image_based_product_search.git
 cd image_based_product_search/imgsearch
-pip install -r imgsearch/requirements.txt
-python imgsearch/manage.py migrate
-python imgsearch/manage.py runserver
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
 ```
 
 The model will be downloaded automatically on first run into `utlities/models/`.
